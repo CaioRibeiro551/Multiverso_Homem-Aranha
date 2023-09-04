@@ -122,7 +122,11 @@ margin-bottom: 30px;
 
 .s-wrapper .s-main-content__top .s-description .pills{
   margin-bottom: 20px;}
-
+  
+  .s-wrapper .s-main-content .s-links{
+    padding: 20px;
+    padding-left: 0;
+  }
   .s-wrapper .s-main-content .s-links ul{
 display: flex;
 flex-direction: row;
