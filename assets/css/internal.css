@@ -95,3 +95,8 @@ background-size:cover;
   background-image: url('../images/spiderman-tobey/movie-03/background.png');
   background-size:cover;
   }
+
+  .s-spiderman-02-02{
+    background-image: url('../images/spiderman-andrew/movie-02/background.jpg');
+    background-size:cover;
+  }
